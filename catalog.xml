@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<catalog>
+    <frontspiece>/assets/frontspiece.png</frontspiece>
+    <bullet>/assets/standard_bullet.png</bullet>
+    <reader_path>/readers/wise.so</reader_path>
+    <filter_path>/filters/standard_filter.fil</filter_path>
+    <entry name="Starting Point">
+        <address>/storage/Starting_Point.con</address>
+        <preview>/assets/preview/Starting_Point.png</preview>
+    </entry>
+    <entry name="Sequel">
+        <address>/storage/Sequel.con</address>
+        <filter_path>/filters/special_filter.fil</filter_path>
+        <bullet>/assets/special_bullet.png</bullet>
+        <preview>/assets/preview/Sequel.png</preview>
+    </entry>
+</catalog>
